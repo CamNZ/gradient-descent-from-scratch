@@ -1,6 +1,6 @@
 # Gradient descent from scratch
 
-A two part tutorial series implementing gradient descent without the use of any machine learning libraries.
+A two part tutorial series implementing the gradient descent algorithm without the use of any machine learning libraries.
 
 ### Background
 
@@ -27,7 +27,10 @@ Numpy, matplotlib
 
 ### Usage
 
-Clone this repository, then open 'part_1' with jupyter-notebook.
+* Clone repository
+* Download mnist here https://drive.google.com/file/d/1b3vmpg0J7IABO-FUTLVT0uEHHBDzI0Mb/view?usp=sharing
+* Put mnist_normalized.pkl into local repository
+* Open 'part_1' with jupyter-notebook.
 
 
 ### Feedback
